@@ -1,0 +1,14 @@
+# MINNAL
+
+> Fast Tasks. Sharp Focus. A bold, modern task manager for focused work — real-time, dark-mode-first, and built for momentum.
+
+MINNAL is a collaborative productivity app for individuals and small teams. It offers a kanban board, list view, workspaces, comments, mentions, notifications, and an activity feed.
+
+## Pages
+
+- [Home](/): Product overview, features, and pricing for MINNAL.
+
+## Optional
+
+- [Sign in](/login): Account sign-in.
+- [Create account](/register): New account signup.
